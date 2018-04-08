@@ -14,6 +14,7 @@
 		AFD102172079EC7F001049F4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AFD102152079EC7F001049F4 /* LaunchScreen.storyboard */; };
 		AFD102222079EC7F001049F4 /* Demo2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFD102212079EC7F001049F4 /* Demo2Tests.swift */; };
 		AFD1022D2079EC7F001049F4 /* Demo2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFD1022C2079EC7F001049F4 /* Demo2UITests.swift */; };
+		AFD1023B2079EE54001049F4 /* file1test.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFD1023A2079EE54001049F4 /* file1test.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		AFD102282079EC7F001049F4 /* Demo2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Demo2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AFD1022C2079EC7F001049F4 /* Demo2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Demo2UITests.swift; sourceTree = "<group>"; };
 		AFD1022E2079EC7F001049F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AFD1023A2079EE54001049F4 /* file1test.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = file1test.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				AFD1020C2079EC7F001049F4 /* AppDelegate.swift */,
 				AFD1020E2079EC7F001049F4 /* ViewController.swift */,
+				AFD1023A2079EE54001049F4 /* file1test.swift */,
 				AFD102102079EC7F001049F4 /* Main.storyboard */,
 				AFD102132079EC7F001049F4 /* Assets.xcassets */,
 				AFD102152079EC7F001049F4 /* LaunchScreen.storyboard */,
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AFD1023B2079EE54001049F4 /* file1test.swift in Sources */,
 				AFD1020F2079EC7F001049F4 /* ViewController.swift in Sources */,
 				AFD1020D2079EC7F001049F4 /* AppDelegate.swift in Sources */,
 			);
